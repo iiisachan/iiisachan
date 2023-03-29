@@ -12,7 +12,7 @@ I'm currently studying Front End Development at IT-Högskolan in Gothenburg.
 
 
 ### 🖥️ Some projects
-*[Image library](http://iiisachan.github.io/)
+* [Image library](http://iiisachan.github.io/)
 
 
 ### Skills
