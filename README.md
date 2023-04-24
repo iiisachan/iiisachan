@@ -13,7 +13,7 @@ I'm currently studying Front End Development at IT-Högskolan in Gothenburg.
 
 ### 🖥️ Some projects
 * [Vue Image library](http://iiisachan.github.io/)
-* [React webshop](https://ornate-cupcake-123bca.netlify.app)
+* [React webshop](https://iiisachan-react-webshop.netlify.app/)
 
 
 ### Skills
